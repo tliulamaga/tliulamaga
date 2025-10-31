@@ -18,7 +18,7 @@ I'm a developer with a keen interest in full-stack development, open-source cont
 
 ## Projects
 Here are a few projects I've worked on:
-- **Fresno360**: A community engagement platform for Fresno residents.
+- **360Fresno**: UX Design Freelance Project 
 
 
 ---
