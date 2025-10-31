@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 ---
 
 ## About Me
-I'm a developer with a keen interest in full-stack development, open-source contributions, and learning new technologies. I enjoy turning ideas into reality through code.
+I'm a developer with a keen interest in full-stack development web development with background in UI/UX Design. I am a current undergraduate student at Arizona State University studying full-stack web development.  
 
 ---
 
@@ -18,13 +18,14 @@ I'm a developer with a keen interest in full-stack development, open-source cont
 
 ## Projects
 Here are a few projects I've worked on:
-- **360Fresno**: UX Design Freelance Project 
+- **360Fresno**: UI Design Freelance Project
+- ****Valley Golf Center**: UI/UX Design Showcase
 
 
 ---
 
 ## Contact Information
-- **Portfolio Website**: 
+- **Portfolio Website**: grouse-cylinder-xcnl.squarespace.com
 - **Email**: thomasliulamaga@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/thomas-liulamaga-10b4501b2/
 
