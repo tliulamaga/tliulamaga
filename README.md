@@ -19,7 +19,7 @@ I'm a developer with a keen interest in full-stack development web development w
 ## Projects
 Here are a few projects I've worked on:
 - **360Fresno**: UI Design Freelance Project
-- ****Valley Golf Center**: UI/UX Design Showcase
+- **Valley Golf Center**: UI/UX Design Showcase
 
 
 ---
