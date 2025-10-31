@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm ThomasLiulamaga
+# Hi there, I'm Thomas Liulamaga
 
 Welcome to my GitHub profile! I'm passionate about building innovative solutions and sharing knowledge with the community.
 
