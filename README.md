@@ -24,6 +24,7 @@ Here are a few projects I've worked on:
 ---
 
 ## Contact Information
+- **Portfolio Website**: 
 - **Email**: thomasliulamaga@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/thomas-liulamaga-10b4501b2/
 
