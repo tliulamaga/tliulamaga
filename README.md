@@ -1,32 +1,43 @@
 # Hi there, I'm Thomas Liulamaga
-
-Welcome to my GitHub profile! I'm passionate about building innovative solutions and sharing knowledge with the community.
+Full-Stack Web Developer focused on building responsive, user-friendly web applications and helping businesses improve their online presence.
 
 ---
 
 ## About Me
-I'm a developer with a keen interest in full-stack development web development with background in UI/UX Design. I am a current undergraduate student at Arizona State University studying full-stack web development.  
+I'm a Full-Stack Web Developer and Arizona State University graduate with a Bachelor of Science in Graphic Information Technology (Full-Stack Web Development).
+
+My background combines web development, UI/UX design, and business-focused problem solving. I enjoy creating modern, responsive websites that deliver a great user experience while helping organizations achieve their goals.
+
+Currently, I'm focused on:
 
 ---
 
-## Skills
-- **Programming Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks**: React, Node.js, Django
-- **Tools**: Git, Docker, VS Code
+## Tech Stack
+Frontend
+HTML5
+CSS3
+JavaScript
+Bootstrap
+Responsive Web Design
+Backend
+Node.js
+Express.js
+Tools & Platforms
+Git
+GitHub
+VS Code
+Vercel
+Figma
 
 ---
 
-## Projects
-Here are a few projects I've worked on:
-- **360Fresno**: UI Design Freelance Project - https://www.360photofresno.com/
-- **Valley Golf Center**: UI/UX Design Showcase - https://tliulamaga.github.io/Git-480-Senior-Project/
+## Connect With Me
 
+Portfolio: https://tliulamaga.netlify.app/
 
----
+LinkedIn: https://www.linkedin.com/in/thomas-liulamaga-10b4501b2/
 
-## Contact Information
-- **Portfolio Website**: grouse-cylinder-xcnl.squarespace.com
-- **Email**: thomasliulamaga@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/thomas-liulamaga-10b4501b2/
+Email: thomasliulamaga@gmail.com
+
 
 ---
